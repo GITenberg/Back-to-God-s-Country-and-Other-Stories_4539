@@ -1,0 +1,30 @@
+_repo: Back-to-God-s-Country-and-Other-Stories_4539
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Back to God's country -- The yellow-back -- The fiddling man -- L'ange
+  -- The case of Beauvais -- The other man's wife -- The strength of men -- The match
+  -- The honor of her people -- Bucky Severn -- His first penitent -- Peter God --
+  The mouse.
+title: Back to God's Country and Other Stories
+url: http://www.gutenberg.org/ebooks/4539
